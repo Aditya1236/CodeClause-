@@ -1,0 +1,13 @@
+.captcha-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .captcha-container img {
+    margin-left: 10px;
+    height: 30px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
